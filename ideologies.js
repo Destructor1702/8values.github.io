@@ -457,5 +457,14 @@ ideologies = [
             "govt": 100,
             "scty": 50
         }
+    },
+    {
+        "name": "Rational-Egoism",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 90,
+            "scty": 60
+        }
     }
 ];
