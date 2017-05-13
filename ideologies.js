@@ -462,7 +462,7 @@ ideologies = [
         "name": "Rational-Egoism",
         "stats": {
             "econ": 0,
-            "dipl": 50,
+            "dipl": 55,
             "govt": 90,
             "scty": 60
         }
